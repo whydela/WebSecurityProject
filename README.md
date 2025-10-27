@@ -6,7 +6,7 @@ This project involves identifying and fixing security vulnerabilities within a p
 
 ---
 
-##  vulnerabilities Found and Fixed
+##  Vulnerabilities Found and Fixed
 
 ### 1. Cross-Site Scripting (XSS) Vulnerability 💉
 
